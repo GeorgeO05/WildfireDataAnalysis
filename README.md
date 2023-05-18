@@ -1,6 +1,6 @@
 # Group 20 - Project C: Wildfire Data Analysis
 
-##[CS167 Project Report](https://github.com/GeorgeO05/WildfireDataAnalysis/blob/main/CS167%20Project%20Report.pdf).
+[CS167 Project Report](https://github.com/GeorgeO05/WildfireDataAnalysis/blob/main/CS167%20Project%20Report.pdf).
 
 ## Student information
 * Full name: Diane Shan
